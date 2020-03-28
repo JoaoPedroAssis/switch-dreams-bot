@@ -1,0 +1,27 @@
+{
+  "name": "switch-dreams-bot",
+  "version": "1.0.0",
+  "description": "Bot for switch dreams discord server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoPedroAssis/switch-dreams-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoPedroAssis/switch-dreams-bot/issues"
+  },
+  "homepage": "https://github.com/JoaoPedroAssis/switch-dreams-bot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
